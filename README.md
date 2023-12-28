@@ -1,5 +1,5 @@
 # MATH 241: Calculus Ⅲ @ ZJU Fall 2022 by Bryan Wang
-[Bryan Wang](https://github.com/Wang-Boyao) | MATH 241: Calculus Ⅲ, Fall 2022  
+[Bryan Wang](https://github.com/Beryex) | MATH 241: Calculus Ⅲ, Fall 2022  
 Instructor:   
 [Honold Thomas](https://zjui.intl.zju.edu.cn/node/775) @ Zhejiang University - University of Illinois Urbana-Champaign Institute 
 
